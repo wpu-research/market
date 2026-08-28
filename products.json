@@ -1,0 +1,29 @@
+[
+  {
+    "id": "E",
+    "name": "Ürün E",
+    "desc": "Açıklama buraya. 📍 Teslimat: KKTC Girne · Lefkoşa · Mağusa (toplu alımlarda).",
+    "price": 0,
+    "currency": "TL",
+    "stock": 1,
+    "photo": "https://placehold.co/600x400/1a1a1a/39ff14/png?text=VENOM+E"
+  },
+  {
+    "id": "C",
+    "name": "Ürün C",
+    "desc": "Açıklama buraya. 📍 Teslimat: KKTC Girne · Lefkoşa · Mağusa (toplu alımlarda).",
+    "price": 0,
+    "currency": "TL",
+    "stock": 1,
+    "photo": "https://placehold.co/600x400/1a1a1a/39ff14/png?text=VENOM+C"
+  },
+  {
+    "id": "W",
+    "name": "Ürün W",
+    "desc": "Açıklama buraya. 📍 Teslimat: KKTC Girne · Lefkoşa · Mağusa (toplu alımlarda).",
+    "price": 0,
+    "currency": "TL",
+    "stock": 1,
+    "photo": "https://placehold.co/600x400/1a1a1a/39ff14/png?text=VENOM+W"
+  }
+]

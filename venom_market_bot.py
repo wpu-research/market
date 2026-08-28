@@ -27,8 +27,8 @@ import urllib.request
 import urllib.error
 from datetime import datetime
 
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID", "")
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+ADMIN_CHAT_ID = os.environ.get("ADMIN_CHAT_ID", "").strip()
 
 if not BOT_TOKEN:
     sys.exit("HATA: TELEGRAM_BOT_TOKEN ortam degiskenini ayarla.")
